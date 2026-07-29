@@ -6,3 +6,7 @@ ip a
 <img width="1626" height="182" alt="image" src="https://github.com/user-attachments/assets/df9beeea-b1bd-42ca-a29c-313d347b60a7" />
 <img width="256" height="119" alt="image" src="https://github.com/user-attachments/assets/1f6943af-c7ca-4ec7-a3b3-752584658fcc" />
 <img width="266" height="131" alt="image" src="https://github.com/user-attachments/assets/81b2251f-25d6-4d84-ac87-eb00c0fa3baf" />
+
+
+<img width="457" height="264" alt="image" src="https://github.com/user-attachments/assets/4bf48d45-4b90-4fb5-8ece-dcc54e1498eb" />
+<img width="657" height="245" alt="image" src="https://github.com/user-attachments/assets/ccb61a17-eb12-48b4-9d12-9be3b0332b9f" />
