@@ -25,3 +25,4 @@ ip a
 
 Netcat-Basics-<studentid>-client-server.png
 Capture-Basics-<studentid>-ping-netcat.pcap
+![Capture-Basics-12323445-ping-netcat captured file from wireshark](./Capture-Basics-12323445-ping-netcat.pcap)
