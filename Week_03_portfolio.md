@@ -8,6 +8,8 @@ ip a
 <img width="266" height="131" alt="image" src="https://github.com/user-attachments/assets/81b2251f-25d6-4d84-ac87-eb00c0fa3baf" />
 
 
+
+
 <img width="457" height="264" alt="image" src="https://github.com/user-attachments/assets/4bf48d45-4b90-4fb5-8ece-dcc54e1498eb" />
 <img width="657" height="245" alt="image" src="https://github.com/user-attachments/assets/ccb61a17-eb12-48b4-9d12-9be3b0332b9f" />
 <img width="765" height="418" alt="image" src="https://github.com/user-attachments/assets/6420966a-5b70-4506-9ac9-6cfd3468af16" />
@@ -18,3 +20,7 @@ ip a
 
 
 <img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/a72d0497-6421-43b6-87c3-f487340dacb3" />
+
+
+Netcat-Basics-<studentid>-client-server.png
+Capture-Basics-<studentid>-ping-netcat.pcap
