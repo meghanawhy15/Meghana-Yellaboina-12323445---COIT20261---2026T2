@@ -20,6 +20,7 @@ ip a
 
 
 <img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/a72d0497-6421-43b6-87c3-f487340dacb3" />
+<img width="902" height="645" alt="image" src="https://github.com/user-attachments/assets/ae8f9e32-1a47-4cf5-af80-cf84a72987be" />
 
 
 Netcat-Basics-<studentid>-client-server.png
