@@ -10,3 +10,11 @@ ip a
 
 <img width="457" height="264" alt="image" src="https://github.com/user-attachments/assets/4bf48d45-4b90-4fb5-8ece-dcc54e1498eb" />
 <img width="657" height="245" alt="image" src="https://github.com/user-attachments/assets/ccb61a17-eb12-48b4-9d12-9be3b0332b9f" />
+<img width="765" height="418" alt="image" src="https://github.com/user-attachments/assets/6420966a-5b70-4506-9ac9-6cfd3468af16" />
+<img width="805" height="443" alt="image" src="https://github.com/user-attachments/assets/50b06626-7096-4dbf-9663-6223f5e407a4" />
+<img width="1899" height="1026" alt="image" src="https://github.com/user-attachments/assets/78276031-e63d-40dc-9d26-98dd974e076d" />
+
+
+
+
+<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/a72d0497-6421-43b6-87c3-f487340dacb3" />
