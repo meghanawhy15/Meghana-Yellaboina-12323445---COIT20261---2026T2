@@ -15,21 +15,21 @@ To access the GNS3 interface and start a new project, you need to input this IP 
 ![Week 1 Lecture Knowledge Test](./images/Week-1LectureTest.png)
 
 ![IP address in Virtual box](./Virtual_box.png)
-<img width="455" height="390" alt="Virtualbox" src="https://github.com/user-attachments/assets/daf6efe5-1708-493d-9c0a-020000805586" /><br>
+<br>
 <br>
 
 Click "Add Blank Project" and enter a suitable project name to start a new project. <br>
 Next, add a Linux host (shown by a computer icon) and fill in a text field with information such the host name, IP address, title, and date.<br>
 
-![Week 1 Lecture Knowledge Test](./images/Week-1LectureTest.png)
-<img width="304" height="418" alt="GNS3-Intro" src="https://github.com/user-attachments/assets/ae3e0601-dcc7-4034-865a-c2e4fd369ce6" /><br>
+![Introduction to gns3](./gns3_Intro.png)
+<br>
 <br>
 
 
 Configure the host settings after that. By deleting the comment box and making the necessary adjustments, the IP address can be modified. <br>
 Every host that is added to the project should go through the same configuration procedure.<br>
 
-![Week 1 Lecture Knowledge Test](./images/Week-1LectureTest.png)
+![Map topology](./Machine ok.png)
 <img width="332" height="409" alt="Map topology in GNS3-Intro" src="https://github.com/user-attachments/assets/f07549a9-3810-4d32-ad20-ae6e9e49594b" /><br>
 <br>
 
