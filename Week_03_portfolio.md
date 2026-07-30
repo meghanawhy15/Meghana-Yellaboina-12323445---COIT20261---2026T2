@@ -4,7 +4,7 @@ ip addr add 10.1.0.1/24 dev eth0
 ip a 
 
 
-
+Setting-IP-12323445.gns3project
 
 
 <img width="457" height="264" alt="image" src="https://github.com/user-attachments/assets/4bf48d45-4b90-4fb5-8ece-dcc54e1498eb" />
