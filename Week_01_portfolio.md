@@ -12,8 +12,6 @@ GNS3 is not separate software, it is a virtual computer that operates on Virtual
 An IP address will appear once the VirtualBox machine has been started. <br>
 To access the GNS3 interface and start a new project, you need to input this IP address into a web browser.<br>
 
-![Week 1 Lecture Knowledge Test](./images/Week-1LectureTest.png)
-
 ![IP address in Virtual box](./Virtual_box.png)
 <br>
 <br>
@@ -38,7 +36,14 @@ To view a host's IP address, right-click on it and choose the command option.<br
 
 ![IP address of Host 1](./Ip_addr.png)
 <br>
+
+### Self Reflection
+
+The above is the Tutorial-1 class. In this class, we learned how to set up GNS3 with VirtualBox, create a project, add Linux hosts, configure IP addresses, and run a basic network simulation. Week 01 provided me with the foundation required for future networking and automation activities. GNS3 and Linux network configuration were unfamiliar concepts, but completing the practical tasks helped me understand how virtual network environments operate.
 <br>
-
-The above is the Tutorial-1 class. In this class, we learned how to set up GNS3 with VirtualBox, create a project, add Linux hosts, configure IP addresses, and run a basic network simulation. This completes the first tutorial class.
-
+I learned how to create and manage a GitHub portfolio, which will help me document future technical tasks in a structured and professional way. Configuring a static IP address improved my understanding of network interfaces, IP addressing, and the relationship between configuration files and network functionality.
+<br>
+One challenge I faced was understanding the Linux network configuration syntax and interpreting command outputs. By reviewing the configuration steps and testing the IP address using the console, I became more confident in troubleshooting basic networking issues.
+<br>
+In future weeks, I aim to improve my understanding of networking commands, automation tools, and documentation practices so that I can create clearer and more detailed technical reports. This completes the first tutorial class.
+<br>
