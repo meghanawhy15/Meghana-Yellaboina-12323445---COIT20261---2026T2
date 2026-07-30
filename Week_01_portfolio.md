@@ -40,10 +40,17 @@ To view a host's IP address, right-click on it and choose the command option.<br
 ### Self Reflection
 
 The above is the Tutorial-1 class. In this class, we learned how to set up GNS3 with VirtualBox, create a project, add Linux hosts, configure IP addresses, and run a basic network simulation. Week 01 provided me with the foundation required for future networking and automation activities. GNS3 and Linux network configuration were unfamiliar concepts, but completing the practical tasks helped me understand how virtual network environments operate.
+
 <br>
+
 I learned how to create and manage a GitHub portfolio, which will help me document future technical tasks in a structured and professional way. Configuring a static IP address improved my understanding of network interfaces, IP addressing, and the relationship between configuration files and network functionality.
+
 <br>
+
 One challenge I faced was understanding the Linux network configuration syntax and interpreting command outputs. By reviewing the configuration steps and testing the IP address using the console, I became more confident in troubleshooting basic networking issues.
+
 <br>
+
 In future weeks, I aim to improve my understanding of networking commands, automation tools, and documentation practices so that I can create clearer and more detailed technical reports. This completes the first tutorial class.
+
 <br>
