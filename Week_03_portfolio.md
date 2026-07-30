@@ -6,6 +6,8 @@ ip a
 
 Setting-IP-12323445.gns3project
 
+Capture-Basics-12323445-ping-netcat.pcap
+
 
 <img width="457" height="264" alt="image" src="https://github.com/user-attachments/assets/4bf48d45-4b90-4fb5-8ece-dcc54e1498eb" />
 <img width="657" height="245" alt="image" src="https://github.com/user-attachments/assets/ccb61a17-eb12-48b4-9d12-9be3b0332b9f" />
