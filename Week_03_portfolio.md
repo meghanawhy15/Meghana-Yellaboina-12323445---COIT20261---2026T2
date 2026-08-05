@@ -1,6 +1,6 @@
 <img width="579" height="406" alt="image" src="https://github.com/user-attachments/assets/5938477b-d1b5-45bc-b05e-8c8954311261" />
-![Settings IP](./Setting_IP.png)
 
+![Settings_IP](./Settings_IP.png)
 ip addr add 10.1.0.1/24 dev eth0
 ip a 
 
