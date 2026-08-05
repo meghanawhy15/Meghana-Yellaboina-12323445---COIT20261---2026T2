@@ -22,4 +22,4 @@ ip a <br>
 
 ![WireShark](./WireShark.png)
 
-![Capture-Basics-12323445-ping-netcat captured file from wireshark](./Capture-Basics-12323445-ping-netcat.pcap)
+[Capture-Basics-12323445-ping-netcat captured file from wireshark](./Capture-Basics-12323445-ping-netcat.pcap)
