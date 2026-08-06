@@ -56,3 +56,5 @@ One challenge I faced was understanding the Linux network configuration syntax a
 In future weeks, I aim to improve my understanding of networking commands, automation tools, and documentation practices so that I can create clearer and more detailed technical reports. This completes the first tutorial class.
 
 <br>
+
+***************************************************************************************************************************
