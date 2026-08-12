@@ -13,3 +13,17 @@ Task-1
 
 
 
+Task-2
+[OSPF-Basics-Template.gns3project](./OSPF-Basics-Template.gns3project)
+
+![T2-frr1](./T2-frr1.png)
+![T2-Host1](./T2-Host1.png)
+![T2-Host2](./T2-Host2.png)
+![T2-No-NETem1](./T2-No-NETem1.png)
+![T2-No-NETem1-Host1](./T2-No-NETem1-Host1.png)
+![T2-OSPF-Basics-12323445-network](./T2-OSPF-Basics-12323445-network.png)
+![T2-show-ip-ospf-neighbor-frr1](./T2-show-ip-ospf-neighbor-frr1.png)
+![T2-show-ip-ospf-route-frr1](./T2-show-ip-ospf-route-frr1.png)
+![T2-show-ip-ospf-route-frr2](./T2-show-ip-ospf-route-frr2.png)
+![T2-show-ip-route-frr1](./T2-show-ip-route-frr1.png)
+![T2-show-ip-route-frr2](./T2-show-ip-route-frr2.png)
