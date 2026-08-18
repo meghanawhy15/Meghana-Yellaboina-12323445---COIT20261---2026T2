@@ -58,6 +58,10 @@ My student id is 12323445
 The successful exchange confirmed that TCP communication between the two hosts was functioning correctly.
 ![NetCat Host 2](./netcat_Host2.png)
 
+### Testing Result
+
+The Netcat client successfully connected to the server using TCP on port 12345. The client sent my name to the server, and the server returned my student ID to the client. The successful two-way message exchange confirmed that application-layer TCP communication between the two Linux hosts was working correctly.
+
 ## Task 2: Packet Capture
 
 The purpose of this task was to capture packets travelling between hosts, save them as a packet capture (.pcap) file, transfer the file from the GNS3 server to the host computer, and verify the captured packets using Wireshark.
@@ -98,6 +102,22 @@ Meghana Yellaboina
 This generated TCP traffic for capture.
 
 [Capture-Basics-12323445-ping-netcat captured file from wireshark](./Capture-Basics-12323445-ping-netcat.pcap)
+
+### Testing Result
+
+The packet capture was successfully saved and transferred from the GNS3 server to the Windows host computer using FileZilla. Opening the `.pcap` file in Wireshark confirmed that network packets had been captured successfully. The capture contained traffic generated during the ping and Netcat communication tests.
+
+## Key Concepts Learned
+
+- **Netcat (nc):** A networking utility that can establish client-server communication using TCP or UDP.
+- **TCP:** A transport-layer protocol that provides reliable communication between applications.
+- **Port Number:** Identifies the application or service involved in network communication.
+- **Client-Server Communication:** The client initiates a connection to a server that is listening on a specified IP address and port.
+- **ICMP:** The protocol used by Ping for network-level reachability testing.
+- **Packet Capture:** Records packets travelling across a network link for later examination.
+- **PCAP:** A file format used to store captured network packets.
+- **Wireshark:** A network protocol analyser used to inspect captured network traffic.
+- **FileZilla:** Used in this activity to transfer the packet capture from the GNS3 server to the host computer.
 
 **********************************************************************************************************************
 ### Self Reflection
