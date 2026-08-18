@@ -34,14 +34,16 @@ Host 3
 Configured manually by editing and restarting the interface.
 ![3](./IP_Host3.png)
 
+Host 4
+
 Configured using " ip address add " command.
 ![4](./IP_Host4.png)
 
 ### Ping Options Tested
 
-- `ping -c 3 <IP>` – limits the test to three ping requests.
-- `ping -i 4 <IP>` – changes the interval between ping requests to four seconds.
-- `ping -c 2 -s 100 <IP>` – sends two ping requests with a data size of 100 bytes.
+- `ping -c 3 10.1.1.2` – limits the test to three ping requests.
+- `ping -i 4 10.1.1.2` – changes the interval between ping requests to four seconds.
+- `ping -c 2 -s 100 10.1.1.2` – sends two ping requests with a data size of 100 bytes.
 
 Testing these options demonstrated how ping can be customised depending on the type of network test being performed.
 
