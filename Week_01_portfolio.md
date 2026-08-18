@@ -40,16 +40,15 @@ To view a host's IP address, right-click on it and choose the command option.<br
 
 ### Static IP Configuration
 
-The Linux host was configured with a static IP address by editing the `/etc/network/interfaces` configuration before starting the node.
+The Linux host was configured with a static IP address by editing the /etc/network/interfaces configuration before starting the node.
 
 The basic configuration followed this structure:
-
     auto eth0
     iface eth0 inet static
-        address <my configured IP address>
-        netmask <my network mask>
+    address 192.168.0.7
+        netmask 255.255.255.0
 
-This configuration ensures that the `eth0` interface uses a manually assigned static IP address rather than obtaining one dynamically.
+This configuration ensures that the etho0 interface uses a manually assigned static IP address rather than obtaining one dynamically.
 
 
 ## Testing Results
