@@ -6,6 +6,7 @@
  
 ## Tutorial Activities
 [GNS3 Introduction Project](./GNS3-Intro-12323445.gns3project)
+
 ## Task 1: Introduction to GNS3 Basics
 
 GNS3 is not separate software, it is a virtual computer that operates on VirtualBox. There are supplied files provided in onedrive are used to install it. <br>
@@ -36,6 +37,44 @@ To view a host's IP address, right-click on it and choose the command option.<br
 
 ![IP address of Host 1](./Ip_addr.png)
 <br>
+
+### Static IP Configuration
+
+The Linux host was configured with a static IP address by editing the `/etc/network/interfaces` configuration before starting the node.
+
+The basic configuration followed this structure:
+
+    auto eth0
+    iface eth0 inet static
+        address <my configured IP address>
+        netmask <my network mask>
+
+This configuration ensures that the `eth0` interface uses a manually assigned static IP address rather than obtaining one dynamically.
+
+
+## Testing Results
+
+After configuring the Linux host with a static IP address, I started the node and opened its web console.
+
+I used the following Linux command to verify the network configuration:
+
+`ip address show`
+
+The command output confirmed that the configured IP address was successfully assigned to the `eth0` network interface. This verified that the changes made in `/etc/network/interfaces` were applied correctly and that the Linux host was configured successfully.
+
+## Key Concepts Learned
+
+- **GNS3:** A network simulation environment used to create and test virtual network topologies.
+- **VirtualBox:** Provides the virtualisation environment required for the GNS3 virtual machine.
+- **Static IP Addressing:** Allows an IP address to be manually assigned to a network interface.
+- **eth0:** The network interface configured on the Linux host during this activity.
+- **/etc/network/interfaces:** The Linux configuration file used to configure the static IP address.
+- **ip address show:** A Linux command used to inspect network interfaces and verify assigned IP addresses.
+- **Network Testing:** Command output can be used to confirm whether network configuration has been applied correctly.
+
+## Additional Insight
+
+This activity helped me understand that configuring an IP address and verifying an IP address are two separate stages. Editing `/etc/network/interfaces` defines the intended configuration, while using `ip address show` allows the administrator to verify that the configuration has actually been applied to the network interface. This demonstrates the importance of testing configuration changes rather than assuming they were successful.
 
 **********************************************************************************************************************
 ### Self Reflection
