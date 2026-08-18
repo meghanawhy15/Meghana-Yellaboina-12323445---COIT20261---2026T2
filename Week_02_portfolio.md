@@ -37,9 +37,21 @@ Configured manually by editing and restarting the interface.
 Configured using " ip address add " command.
 ![4](./IP_Host4.png)
 
+### Ping Options Tested
+
+- `ping -c 3 <IP>` – limits the test to three ping requests.
+- `ping -i 4 <IP>` – changes the interval between ping requests to four seconds.
+- `ping -c 2 -s 100 <IP>` – sends two ping requests with a data size of 100 bytes.
+
+Testing these options demonstrated how ping can be customised depending on the type of network test being performed.
+
 Result
 
 All four hosts were successfully configured with static IPv4 addresses in the same subnet (10.1.1.0/24). The addresses were verified using the ip address show command. 
+
+### Testing Result
+
+The successful replies confirmed that Host1 could communicate with Host2 across the LAN. The ping summary also displayed the round-trip time (RTT), which measures the time required for a packet to travel from the source to the destination and for the response to return.
 
 ## Task 2: Testing Network Connectivity Using Ping
 
@@ -68,6 +80,17 @@ These options changed the number of packets, interval between packets and packet
 Result
 
 Successful communication was achieved between valid hosts. Testing an invalid IP address demonstrated packet loss and unreachable destination messages. Different ping options altered the behaviour of the command while still allowing connectivity testing.
+
+
+## Key Concepts Learned
+
+- **Static IPv4 Addressing:** A fixed IP address can be manually assigned to a network interface.
+- **Subnet:** Devices within the same subnet can communicate directly through the Ethernet switch.
+- **Persistent Configuration:** IP addresses configured through /etc/network/interfaces remain available after reboot.
+- **Temporary Configuration:** An address assigned using `ip address add` takes effect immediately but does not persist after reboot.
+- **Ping:** A network diagnostic command used to determine whether another device is reachable.
+- **Packet Loss:** Indicates that transmitted packets did not successfully receive responses.
+- **Round-Trip Time (RTT):** Measures the time required for a request to reach its destination and for the response to return.
 
 **********************************************************************************************************************
 ### Self Reflection
