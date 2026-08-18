@@ -6,4 +6,3 @@
 3. [Week-3](./Week_03_portfolio.md)
 4. [Week-4](./Week_04_portfolio.md)
 5. [Week-5](./Week_05_portfolio.md)
-6. [Week-6](./Week_06_portfolio.md)
